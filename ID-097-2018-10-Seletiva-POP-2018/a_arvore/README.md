@@ -21,7 +21,4 @@ Para cada caso de teste, imprima uma linha contendo a quantidade de nós da árv
 
 | Exemplo de Entrada  | Exemplo de Saída |
 | ------------- | ------------- |
-| 3 | 3 |
-| 1 | 7 |
-| 2 | 15 |
-| 3 ||
+| 3<br>1<br>2<br>3 | 3<br>7<br>15 |
