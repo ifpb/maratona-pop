@@ -6,6 +6,7 @@ Uma árvore é um conjunto de nós conectados de tal forma que haja exatamente u
 
 Árvore binária é aquela que cada nó possui no máximo dois filhos. Uma árvore binária é dita cheia se todos os nós que não forem folhas tiverem exatamente dois filhos. A altura de uma árvore binária é quantidade de nós entre a folha mais distante da raiz e a raiz mais um (em uma árvore binária cheia, todas as folhas têm a mesma quantidade de nós até a raiz). A altura da árvore binária abaixo é 3.
 
+![Tree](tree.png)
 
 Dada a altura de uma árvore binária cheia, sua a tarefa é determinar o número de nós dessa árvore.
 
