@@ -11,4 +11,4 @@ A Maratona POP consiste de um evento realizado periodicamente com intuito viabil
 * [2º Simulado POP Medio 2019](ID-102-2019-05-POP-Simulado-Medio-II)
 * [Maratona POP Especial de Natal](ID-100-2018-12-Maratona-POP-Natal/)
 * [Seletiva POP 2019 Superior para OPI e Maratona SBC](ID-103-2019-06-Seletiva-POP-2019/)
-
+* [Seletiva POP para a turma superior iniciante 2019](ID-104-2019-08-Seletiva-POP-Superior-2019/)
