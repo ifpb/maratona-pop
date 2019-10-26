@@ -1,0 +1,41 @@
+10 30
+Madrugao
+SucataNumero4
+Parasitas
+CanoaFuradaNumero16
+TerroristasdeSetembro
+Tromba
+PoucaTripa
+DribleTortodeAbril
+CarnivorosNumero16
+FimdeCarreira
+CarnivorosNumero16 x SucataNumero4
+CarnivorosNumero16 x DribleTortodeAbril
+Madrugao x DribleTortodeAbril
+DribleTortodeAbril x SucataNumero4
+FimdeCarreira x DribleTortodeAbril
+CarnivorosNumero16 x TerroristasdeSetembro
+CanoaFuradaNumero16 x PoucaTripa
+CarnivorosNumero16 x PoucaTripa
+TerroristasdeSetembro x FimdeCarreira
+PoucaTripa x Madrugao
+PoucaTripa x DribleTortodeAbril
+Parasitas x CanoaFuradaNumero16
+CanoaFuradaNumero16 x SucataNumero4
+CanoaFuradaNumero16 x DribleTortodeAbril
+Parasitas x Madrugao
+PoucaTripa x TerroristasdeSetembro
+SucataNumero4 x Parasitas
+SucataNumero4 x PoucaTripa
+Madrugao x SucataNumero4
+Parasitas x PoucaTripa
+PoucaTripa x FimdeCarreira
+Tromba x PoucaTripa
+SucataNumero4 x Tromba
+TerroristasdeSetembro x SucataNumero4
+Parasitas x DribleTortodeAbril
+Tromba x Madrugao
+FimdeCarreira x SucataNumero4
+CanoaFuradaNumero16 x Madrugao
+CanoaFuradaNumero16 x TerroristasdeSetembro
+TerroristasdeSetembro x DribleTortodeAbril
